@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[dev-packages]
+
+[packages]
+folium = "*"
+pandas = "*"
+cenpy = "*"
+pysal = "*"
+jupyter = "*"
+ipykernel = "*"
+matplotlib = "*"
+
+[requires]
+python_version = "3.6"
